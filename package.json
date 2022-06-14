@@ -1,0 +1,17 @@
+{
+  "name": "typed-pipes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:antoniovizuete/typed-pipes.git",
+  "author": "Antonio Vizuete <antonio.vizuete@lansweeper.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node ./src/index.ts"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  },
+  "dependencies": {
+    "ts-node": "^10.8.1"
+  }
+}
